@@ -1,1 +1,1 @@
-alert('Hacked by Juniorhero')
+alert('HackedbyJuniorhero')
